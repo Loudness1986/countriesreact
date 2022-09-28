@@ -1,5 +1,5 @@
 body {
-  text-align: center;
+  flex: auto;
   font-family: fantasy;
   background-color: #e1e1ea;
 }
@@ -12,4 +12,16 @@ img {
 
 li {
   list-style: none;
+}
+
+.App {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+.pais {
+  text-align: center;
 }

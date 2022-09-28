@@ -53,7 +53,7 @@ function App() {
       {/*componente principal que muestra los paises con su capital y su bandera*/}
       <ul>
         {!!countries && countries.map(country =>
-          <Country
+          <Country className="pais"
             key={country.name.common}
             country={country}
           />)}
