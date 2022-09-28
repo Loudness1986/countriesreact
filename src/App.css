@@ -7,7 +7,6 @@ body {
 img {
   width: 130px;
   height: 70px;
-  text-align: center;
 }
 
 li {
@@ -15,10 +14,6 @@ li {
 }
 
 .App {
-  text-align: center;
-}
-
-ul {
   text-align: center;
 }
 
